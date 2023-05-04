@@ -416,23 +416,28 @@
 }
 
 .testimonial-img img:nth-child(1) {
-    top: 0;
-    left: 0;
+    top: 5%;
+    left: 5%;
 }
 
 .testimonial-img img:nth-child(2) {
     top: 60%;
-    left: 20%;
+    left: 15%;
 }
 
 .testimonial-img img:nth-child(3) {
-    top: 20%;
-    left: 60%;
+    top: 10%;
+    right: 10%;
 }
 
 .testimonial-img img:nth-child(4) {
-    bottom: 0;
-    right: 0;
+    bottom: 10%;
+    right: 5%;
+}
+
+.testimonial-img img:nth-child(5) {
+    top: 30%;
+    right: 40%;
 }
 
 .testimonial-img img .animated.pulse {
